@@ -1,0 +1,19 @@
+{
+  "name": "key-display-website",
+  "version": "1.0.0",
+  "description": "A website to display the inputted key (a-z).",
+  "main": "script.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "key",
+    "display",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {}
+}
